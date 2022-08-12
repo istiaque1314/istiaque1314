@@ -4,13 +4,18 @@
 
 **Here are some points about myself :** <br>
 
-➜ㅤBTech Graduate in Elctrical Engineering <br>
+➜ㅤBTech Graduate in Electrical Engineering <br>
+➜ㅤI Am An Android Developer <br>
+➜ㅤI Always Hungry To Learn New Technology <br>
+➜ㅤI Give My Best To Complete The Work Within Given Time <br>
+➜ㅤI Love To Meet Up And Work With Different People <br>
+➜ㅤStay Hungry, Stay Foolish. <br>
 
 
 <table>
   <tr>
   <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=istiaque1314&show_icons=true&theme=radical" /></td>
-    <td valign="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebtanuKhanra&layout=compact&theme=tokyonight"/></td>
+    <td valign="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=istiaque1314&layout=compact&theme=tokyonight"/></td>
     
   </tr>
 </table>
