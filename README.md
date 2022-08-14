@@ -2,6 +2,8 @@
 
 ## 🧑🏻‍💻 ‎ ‎Hello World 🌎, I'm Istiaque! - call me issac <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/><br>
 
+<a href="https://app.daily.dev/Istiaque_01"><img align="left" src="https://api.daily.dev/devcards/47d912e3bd3549dba7d52dafed262a5e.png?r=wht" width="215" alt="Md Istiaque ansari's Dev Card"/></a>
+
 **Here are some points about myself :** <br>
 
 ➜ㅤBTech Graduate in Electrical Engineering <br>
